@@ -2,7 +2,7 @@
 
 ## Eu sou um estudante de Ciência da Computação na UFSJ.
 
-- 🌱 Estudando Ciência da Computação
+- 🌱 Estudando Java e Python
 - 💪🏼 Objetivos Futuros: Aprender novas tecnologias.
 - 📫 Contate-me no email: gabrielsouza010208@gmail.com
 
