@@ -2,7 +2,7 @@
 
 ## Eu sou um estudante de Ciência da Computação na UFSJ.
 
-- 🌱 Estudando Java e Python
+- 🌱 Estudando desenvolvimento web.
 - 💪🏼 Objetivos Futuros: Aprender novas tecnologias.
 - 📫 Contate-me no email: gabrielsouza010208@gmail.com
 
@@ -11,6 +11,8 @@
 
 ### Languages and Tools 🛠 
 
+![HTML](http://img.shields.io/badge/-HTML-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![CSS](http://img.shields.io/badge/-CSS-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
