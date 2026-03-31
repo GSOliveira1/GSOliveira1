@@ -1,41 +1,71 @@
-# Oi! Eu sou o Gabriel.
+# Olá, eu sou Gabriel Souza
 
-## Eu sou um estudante de Ciência da Computação na UFSJ.
+**Entusiasta de Desenvolvimento Fullstack**
 
-- 🌱 Estudando desenvolvimento web.
-- 💪🏼 Objetivos Futuros: Aprender novas tecnologias.
-- 📫 Contate-me no email: gabrielsouza010208@gmail.com
+Sou formando em Ciências da Computação e, atualmente, estou em busca de uma oportunidade de estágio em desenvolvimento de software, com foco em aplicar e expandir meus conhecimentos na prática.
+
+Acredito que a melhor forma de evoluir na área de tecnologia é através da prática constante e da resolução de problemas reais. Por isso, foco meus estudos em desenvolvimento de software, com ênfase tanto em front-end e back-end, banco de dados e boas práticas de programação.
+
+📊 Atualmente explorando: HTML5, CSS3 e JavaScript.
+
+🛠️ Background técnico: experiência em análise de dados com SQL, desenvolvimento de sistemas em Java e aplicações web com Python, além de projetos práticos envolvendo banco de dados e programação orientada a objetos.
+
+
+   <p align="left"> 
+    <a href="https://github.com/[GSOliveira1]?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/[GSOliveira1]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/[GSOliveira1]?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/[gabriel-souza-8a543826b]"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
+    <a href="https://discord.com/users/[gabrielsoliveira]"
+        target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+   </p>
+
+---
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <!-- Substitua ou adicione as tecnologias que você utiliza. Ícones do devicon.dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" alt="Java" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" alt="Python" align="middle" />
+  &nbsp;&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+</p>
 
 ---
 
+### 📊 Estatísticas
 
-### Languages and Tools 🛠 
-
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-
-<br />
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GSOliveira1&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSOliveira1&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-
----
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=[GSOliveira1]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=[GSOliveira1]&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
