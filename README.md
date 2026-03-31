@@ -12,21 +12,21 @@ Acredito que a melhor forma de evoluir na área de tecnologia é através da pr�
 
 
    <p align="left"> 
-    <a href="https://github.com/[GSOliveira1]?tab=followers">
+    <a href="https://github.com/GSOliveira1?tab=followers">
          <img 
          alt="followers" 
          title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/[GSOliveira1]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/GSOliveira1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
          </a>
-    <a href="https://github.com/[GSOliveira1]?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GSOliveira1?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-    <a href="https://www.linkedin.com/in/[gabriel-souza-8a543826b]"
+         src="https://custom-icon-badges.demolab.com/github/stars/GSOliveira1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/gabriel-souza-8a543826b"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
          title="Vamos fazer uma conexão!" /></a>
-    <a href="https://discord.com/users/[gabrielsoliveira]"
+    <a href="https://discord.com/users/gabrielsoliveira"
         target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a>
@@ -60,12 +60,12 @@ Acredito que a melhor forma de evoluir na área de tecnologia é através da pr�
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=[GSOliveira1]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GSOliveira1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=[GSOliveira1]&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GSOliveira1&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
   />
 </p>
