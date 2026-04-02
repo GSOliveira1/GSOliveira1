@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Souza
 
-**Entusiasta de Desenvolvimento Fullstack**
+**Entusiasta de Desenvolvimento Web Fullstack**
 
 Sou formando em Ciências da Computação e, atualmente, estou em busca de uma oportunidade de estágio em desenvolvimento de software, com foco em aplicar e expandir meus conhecimentos na prática.
 
